@@ -58,7 +58,7 @@ Como Junior Data Analyst, mi objetivo es combinar análisis de datos, visualizac
 
 This project was developed as part of my software engineering practice applied to data analysis.
 
-# The main objective is to strengthen key technical skills such as:
+#  The main objective is to strengthen key technical skills such as:
 
 Creating and managing Python virtual environments
 Structured project organization
@@ -97,13 +97,17 @@ python app.py
 
 streamlit run app.py
 
-#📈 Skills Demonstrated
+📈 Skills Demonstrated
 
 ✔ Professional virtual environment management
 ✔ Clean project structuring
 ✔ Basic web app implementation
 ✔ Bilingual technical documentation
 ✔ Real-world development readiness
+
+# 🎯 Professional Objective
+
+As a Junior Data Analyst, my goal is to combine data analysis, visualization, and application development to generate data-driven solutions that add value to organizations.
 
 
 #  🌐 Enlace a mi sitio web / 🌐 Website Link
